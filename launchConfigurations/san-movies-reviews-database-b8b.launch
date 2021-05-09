@@ -1,0 +1,16 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.us-south.cf.cloud.ibm.com",
+      "Org": "smohanhk@gmail.com",
+      "Space": "dev"
+    },
+    "Name": "san-movies-reviews-database-b8b",
+    "Instrumentation": {
+      "domain": "mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
